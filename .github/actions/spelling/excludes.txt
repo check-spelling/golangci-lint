@@ -3,3 +3,4 @@
 ignore$
 (?:^|/)go\.(?:sum|mod)$
 (?:^|/)package(?:-lock|)\.json$
+/misspell\.
